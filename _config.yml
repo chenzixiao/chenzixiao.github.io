@@ -1,0 +1,8 @@
+title: Chenzixiao.GitHub.io
+description: 静水流深的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
